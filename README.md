@@ -19,7 +19,7 @@ Have a bug or an issue with this? [Open a new issue](https://github.com/ekalment
 
 ## Creator
 
-RE-LES-Puc-Rio
+Group of Requirements Engineering / Puc-Rio
 
 
 ## Copyright and License
