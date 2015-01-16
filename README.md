@@ -1,6 +1,6 @@
 # [XML-Visualizator](http://nitanilla.com/visualizer)  
 
-Tool for disclosure of Lexicons exported from [C&L](http://pes.inf.puc-rio.br/cel/index_old.htm) software. This tool was created in 2014 in the course of Final Project of Development as part of Masters in Computer Science in the PUC-Rio.
+Tool for disclosure of Lexicons exported from [C&L](http://pes.inf.puc-rio.br/cel/index_old.htm) software. This tool was created in 2014 in the course of Final Project of Development as part of the Masters in Computer Science of the PUC-Rio.
 The final report in:
 * [english](https://translate.google.com.br/translate?sl=pt&tl=en&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=nitanilla.com%2FPFP&edit-text=)
 * [portugues](https://translate.google.com.br/translate?sl=pt&tl=en&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=nitanilla.com%2FPFP&edit-text=)
