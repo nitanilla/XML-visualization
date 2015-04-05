@@ -1,15 +1,10 @@
 # [XML-Visualizator](http://nitanilla.com/visualizer)  
 
-Tool for disclosure of Lexicons exported from [C&L](http://pes.inf.puc-rio.br/cel/index_old.htm) software. This tool was created in 2014 in the course of Final Project of Development as part of the Masters in Computer Science of the PUC-Rio.
-The final report in:
-* [english](https://translate.google.com.br/translate?sl=pt&tl=en&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=nitanilla.com%2FPFP&edit-text=)
-* [portugues](https://docs.google.com/document/d/1f0pUko8-0ga6jRZYrRqhnpfLQLFD2dPeub4eQ9E5g-c/pub)
-* [spanish](https://translate.google.com.br/translate?sl=pt&tl=es&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=nitanilla.com%2FPFP&edit-text=)
-
+Tool for disclosure of Lexicons
 
 ## Getting Started
 
-Feel free to use this Code, choose one of the following options to get started:
+To use this Code, choose one of the following options to get started:
 * Download the zip
 * Fork this repository on GitHub
 
@@ -19,7 +14,7 @@ Have a bug or an issue with this? [Open a new issue](https://github.com/ekalment
 
 ## Creator
 
-Group of Requirements Engineering / Puc-Rio
+RE-LES-Puc-Rio
 
 
 ## Copyright and License
