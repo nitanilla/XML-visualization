@@ -1,6 +1,6 @@
 # [XML-Visualizator](http://nitanilla.com/visualizer)  
 
-Tool for disclosure of Lexicons
+Tool for disclosure of Lexicons  
 see this version in production http://www.inf.puc-rio.br/~rportugal/visualizer/
 
 ## Getting Started
