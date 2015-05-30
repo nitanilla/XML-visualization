@@ -1,7 +1,7 @@
 # [XML-Visualizator](http://nitanilla.com/visualizer)  
 
 Note: Too see this version in production go to http://www.inf.puc-rio.br/~rportugal/visualizer/    
-This is a tool for disclosure of Lexicons, which uses a XML exported from [C&L](http://pes.inf.puc-rio.br/cel/index_old.htm) software. Created in 2014 in the course of Final Project of Development as part of the Masters in Computer Science of the PUC-Rio.
+This is a tool for disclosure of Lexicons, which uses a XML imported from [C&L](http://pes.inf.puc-rio.br/cel/index_old.htm) software. Created in 2014 in the course of Final Project of Development as part of the Masters in Computer Science of the PUC-Rio.
 
 The final report in:
 * [english](https://translate.google.com.br/translate?sl=pt&tl=en&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=nitanilla.com%2FPFP&edit-text=)
